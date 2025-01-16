@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dirtydiesel46" alt="dirtydiesel46" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, C++, Python, everything :)**
+- 🌱 I’m currently learning **TypeScript/JavaScript as well as improving my skills in Vue & Playwright (and anything inbetween) - previous learnings / interests include Golang, C++, Python :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dirtydiesel46](https://github.com/dirtydiesel46)
 
